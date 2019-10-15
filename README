@@ -1,0 +1,10 @@
+Basic Rules I Follow as a Developer
+These rules apply to projects that have more than one author and are planned to be used in production environments.
+	1. I don't knowingly release software that harms users. For example, if there's a bug that you know could result in some user losing data or money, then don't release the update to production before you fix that bug.
+	2. I value code readability. The code should be easy to read and understand. If there's an easier to read solution, I'd adopt it.
+	3. I write tests for my code regularly. I prefer the codebase to have higher test coverage than less. It should be easy to run the tests. Tests should run quickly especially those that are run most frequently. I want to know the effect of my changes on all unit tests within seconds.
+	4. I know what design patterns are and how they can improve my solutions. Many complex solutions can be simplified through the use of established patterns.
+	5. I am familiar with Clean Code, SOLID, TDD, and XP. I have read and understood what they mean.
+	6. I admit I'm not perfect. When people provide suggestions, comments, and complaints I take time to think and understand what they're saying. I try my best not to react immediately because immediate responses are usually not well thought-out.
+	7. Every action has a reaction, I learned that in Physics class. A similar idea applies to ideas and solutions especially when it comes to the problems we face as developers. Solutions always have downsides. So, before I choose I want to know as many downsides and side effects as possible. This is especially true if the solution or idea is mine because no-one can fool me better than I fool myself.
+	8. While working, I want to do and be the best version of myself. If I have to compromise, I want to be explicit about what I'm gaining and losing. 
